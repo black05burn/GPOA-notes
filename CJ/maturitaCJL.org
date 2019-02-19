@@ -1,0 +1,423 @@
+#+TITLE: Maturita - LITERATURA
+#+AUTHOR: David Beneš
+#+OPTIONS: whn:nil
+
+* Světová literatura do konce 18. století
+** Starověk
+(hrdinské eposy)
+
+- Epos o Gilgamešovi
+- Bible (Starý zákon a Nový zákon)
+** Antika (8. století přnl. - 6. století nl.)
+(epos, drama, poezie)
+
+- Homér
+    - Illias, Odysea - epos
+- Ezop
+    - bajky
+- Sofokles
+    - Král Oidipus, Antigona - tragédie
+- Ovidius
+    - Umění milovat - básnická sbírka
+
+** Středověk (6. - 14. století)
+rozdělení na světské a duchovní díla
+
+- Chansons de geste = písně o činech (hrdinské eposy)
+  - Píseň o Rolandovi
+** Renezance (14. - 17. století)
+   umělecký a myšlenkový směr, *proti nadvládě teologie*, rozvoj přírodních věd a *věd o člověku*
+
+- Dante Alighieri
+    - Božská komedie (peklo, očistec, ráj) - epos
+- Francesco Petrarca
+    - Sonety Lauře
+- Giovanni Boccaccio
+    - Dekameron - soubor 100 novel
+- Francois Villion
+    - Malý testament a Velký testament
+- Miguel de Cervantes
+    - Don Quijote de la Mancha - román
+- William Shakespeare
+    - Romeo a Julie, Zkrocení zlé ženy, Hamlet - dramata
+
+** Baroko (17. století)
+   touha po poznání, nevíra v člověka, pocit marnivosti
+** Klasicismus (2. polovina 17. století)
+   umělecký směr, inspiruje se antikými vzory, řád, rozum, objektivita
+
+- Moliere
+    - Lakomec, Tartuffe - komedie
+
+** Osvícenství (17. - 18. století)
+   racionalismus, logika, humanismu
+
+- Daniel Defoe
+    - Robinson Crusoe - román
+- Jonathan Swift
+    - Gulliverovy cesty - román
+- Voltaire
+    - Filozofické listy
+** Preromantismus (18. století)
+   smysl pro velikost, vznešenost, pro lid a požadavek tvůrčí svobody
+- Johann Wolfgang Goethe
+    - Faust - veršovaná tragédie
+
+* Česká literatura do konce 18. století
+** 2. polovina 9. století
+- Konstantin a Metoděj
+    - Cirilice (slovanské písmo) a Hlaholice (staroslověnské písmo)
+** 10. - 13. století (doba husitská)
+- Kristiánova legenda
+    - život svatého Václava a babičky svaté Ludmily
+- Hospodine, pomiluj ny
+    - nejstarší česká píseň
+- Kosmas
+    - Kosmova kronika (1. česká, psaná latinsky)
+
+** 14. století
+- Alexandreia (epos o Alexandru Velikém)
+- Dalimilova kronika (1. česky psaná, je mu přidělována)
+- Mastičkář (drama, zesměšnění léčitelů)
+- Podkoní a žák (kdo má lepší postavení ve společnosti?)
+
+** 15. století
+- Jan Hus
+    - O pravopise českém, O církvi
+*** Renesance
+- Václav Hájek z Libočan
+    - Kronika česká
+
+** Baroko (17. století)
+- Jan Amos Komesnký
+    - Labyrint světa a ráj srdce, Orbis pictus, Škola hrou, Didaktika
+- Bedřich Bridel
+    - Co Bůh? Člověk?, Jesličky
+
+
+* Světová literature 19. století
+** Romantismus (konec 18. století - začátek 19. století)
+city, emoce, chaos, subjektivita, prolínání žánrů
+
+
+Romantický hrdina: vyděděnec společnosti, prožívá nešťastnou lásku
+
+- Walter Scott
+  - Waverley, Talisman
+- Jane Austenová
+  - Pých a předsudek (Elizabet, pan Darcy), Rozum a cit - romány
+- George Gordon Byron
+  - Childe Haroldova pouť - moderní epos (lyricko-epický žánr)
+- Alexandr Sergejevič Puškin
+  - Evžen Oněgin (+ Taťjána), Piková dáma
+- Victor Hugo
+  - Chrám Matky boží v Paříži (Quasimodo, Esmeralda, Frollo), Bídníci (Jean Valjean, Javert, Cosetta, Fantina) - romány
+- Alexandre Dumas (starší)
+  - Tři mušketýři, Hrabě Monte-Christo (Edmond Dantes, Mercedes)
+- Edgar Allan Poe
+  - Havran, Jáma a kyvadlo
+** Realismus (2. polovina 19. století - v průběhu 20. století)
+   snaží se o objektivitu, přítomnost, typický člověk, věrné zobrazení skutečnosti (romány a povídky)
+- Nikolaj Vasiljevič Gogol
+  - Revizor (vtipná jména), Mrtvé duše
+- Honoré de Balzac
+  - Ztracené iluze, Otec Goriot
+- Charles Dickens
+  - Oliver Twist - román, David Copperfield
+- Gustave Flaubert (i romantismus, i naturalismus)
+  - Paní Bovaryová (realismus)
+- Fjodor Michajlovič Dostojevskij
+  - Zločin a trest (Raskolnikov), Idiot (Myškin), Bratři Karamazovi
+- Lev Nikolajevič Tolstoj
+  - Vojna a mír - epopej, Anna Kareninová (+Vronský) - román
+
+
+- Henrik Ibsen
+  - Strašidla, Nepřítel lidu - dramata
+
+
+** Naturalismus (70. léta 19. století)
+   zobrazení negativních stránek lidské existence (bída, smrt, apod.), postavy poznamenané, na okraji (nebo vrcholu) společnosti, vyjímečné osoby, přehnaně detailní vykreslení prostředí a situace
+   - Émile Zola
+     - jméno rodů, které používá v dílech: Rougonové, Macquartové
+     - Tereza Rquinová - román, Zabiják
+* Česká literatura 19. století
+
+** Národní obrození
+*** První etapa (klasicismus)
+- Josef Dobrovský
+  - Zevrubná mluvnice českého jazyka, Německo-český slovník
+*** Druhá etapa (preromantismus)
+- Josef jungmann
+  - Slovesnost, Slovník česko-německý
+- František Ladislav Čelakovský
+  - Ohlas písní českých, Ohlas písní ruských
+
+
+- Rukopis královédvorský (český středověk)
+- Rukopis zelenohorský (Libušin soud)
+*** Třetí etapa (romantismum)
+- Josef Kajetán Tyl
+  - Fidlovačka aneb Žádný hněv a žádná rvačka, Strakonický dudák - drama
+- Karel Hynek Mácha
+  - Máj
+- Karel Jaromír Erben
+  - Kytice z pověstí národních (13 básní)
+*** Čtvrtá etapa (realismus)
+- Božena Němcová
+  - Babička, Divá Bára - povídky
+- Karel Havlíček Borovský
+  - Král Lávra - satira, z řecké mytologie
+
+** 2. polovina 19. století
+*** *Májovci*
+    almanach Máj, přítomnost, snaha o zobrazení skutečnosti, úsilí o sociální rovnost
+- Jan Neruda
+  - Balady a romance, Povídky malostránské
+*** *Ruchovci*
+    almanach Ruch, aktuální národní a sociální problémy, usilovali o osvobození české literatury od cizích vlivů
+- Svatopluk Čech
+  - Pravý výlet pana Broučka do Měsíce - satirická próza
+*** *Lumírovci*
+    kolem časopisu Lumír, navazují na májvce, prosazují svobodu tvorby
+- Josef Václav Sládek (přispěl do almanachu Ruch)
+  - Zlatý máj, Básně, Selské písně
+- Jaroslav Vrchlický
+  - Noc na Karlštejně - veselohra, Hippodamie
+
+
+*** Historická próza
+- Alois Jirásek
+  - F. L. Věk, Psohlavci - romány
+*** Venkovská próza
+*** Realistické drama
+- Vilém Mrštík
+  - Maryša - tragédie, Santa Lucia
+
+* Světová literatura 20. století
+** Přelom 19. a 20. století
+*** Amerika
+**** Civilismus
+- Walt Whitman
+  - Stébla trávy - básnická sbírka
+*** Francie
+- Jules Verne
+  - Dvacet tisíc mil pod mořem, Cesta do středu Země, Cesta kolem světa za osmdesát dní - romány
+*** Anglie
+- Oscar Wilde
+  - Obraz Doriana Graye - román, Jak je důležité míti Filipa - komedie, Ideální manžel - konverzační komedie
+*** Rusko
+- Anton Pavlovič Čechov
+  - Racek, Tři sestry - komedie; Višňový sad - tragicky laděná komedie
+*** Francie
+**** Prokletí básníci
+- Charles Baudelaire
+  - Květy zla - básnická sbírka, Malé básně v próze - poetická próza
+***** Impresionismus
+- Jean Arthur Rimbaud
+  - Iluminace, Spáč v úvalu, Opilý koráb - básně
+
+** 20. století
+*** Francie
+**** Kubismus
+  - Guillaume Apollinaire
+    - Alkoholy, Kaligramy - básnické sbírky
+
+** Meziválečná literatura
+*** Německo
+  - Thomas Mann
+    - Buddenbrookovi, Kozelný vrch - romány
+  - Erich Maria Remarque
+    - Na západní frontě klid, Tři kamarádi - romány
+*** Velká Británie
+  - James Joyce
+    - Dubličané - soubor povídek, Odysseus - román
+*** Amerika
+  - Ernest Hemingway
+    - Sbohem, armádo - román; Stařec a moře - novela
+  - John Steinbeck
+    - O myších a lidech (Lennie - mentálně postižený, Georgie) - novela
+*** Rusko
+  - Boris Pasternak
+    - Doktor Živago - román
+  - Michail Bulgakov
+    - Mistr a Markétka - román, Psí srdce - sci-fi novela
+
+** Poválečná světová literatura
+*** Anglie
+  - George Orwell
+    - Farma zvířat - román s prvky bajek, 1984 - román
+  - Samuel Beckett
+    - Čekání na Godota - absurdní drama
+*** Amerika
+  - Tennessee Williams
+    - Kočka na plechové střeše, Tramvaj do stanice Touha - divadelní hry
+  - William Styron
+    - Sophiina volba - román, autobiografické prvky
+**** beat generation (50. léta 20. století)
+často tabuizovaná témata: kriminalita, drogy, homosexualita; technika proudu vědomí, volný verš
+  - Jack Kerouac
+    - Na cestě - autobiografický román
+**** magický realismus - latinskoameričtí autoři
+    prvky magie, nadpřirozena, snu, halucinací s reálným příběhem
+  - Gabriel Gracía Márquez - Kolumbie
+    - Sto roků samoty, Láska za časů cholery - román
+*** Francie
+  - Albert Camus
+    - Cizinec (hl. hrdina Mersault), Nevolnost - romány
+*** Itálie
+**** Postmodernismus
+     myšlenkový směr konce 20. století, pluralita názorů, odmítá koncepci jedné pravdy, důraz na příběh, často prolínání snu a skutečnosti
+  - Umberto Eco
+    - Jméno růže - román
+*** Rusko
+  - Alexandr Solženicyn
+    - Souostroví Gulag - trilogie na pomezí beletrie a literatury faktu, Rakovina
+*** Německo
+  - Friedrich Dürrenmatt - švýcarský dramatik
+    - Návštěva staré dámy - komedie
+
+* Česká literatura 20. století
+** Pražská německá literatura - (světová literatura??)
+  - Franz Kafka
+    - Proměna - povídka, Proces - román
+** Česká moderna
+    deklarováno právo umělce na svobodu vyjádření, důležitost je vnitřní pravdivost umělce
+  - Antonín Sova
+    - Z mého kraje - přírodní lyrika, Ivův román - lyrizovaná próza
+  - Petr Bezruč
+    - Marička Magdonová - báseň
+** Generace buřičů
+    odpor k maloměstské společnosti a jejímu pokrytectví
+  - Fráňa Šrámek
+    - Modrý a rudý - básnická sbírka (protiválečné postoje)
+  - Stanislav Kostka Neumann
+    - Kniha lesů, vod a strání - milostná a přírodní lyrika, Nové zpěvy (civilismus)
+  - Viktor Dyk
+    - Krysař - novela
+** Meziválečná česká literatura
+ - Jaroslav Hašek
+   - Dobrý voják Švejk a jeho podivné historky - povídkový soubor, Osudy dobrého vojáka Švejka za světové války - humoristický román
+ - Jaroslav Durych
+   - Cikánčina smrt, Eva - básnické sbírky, Tři dukáty - povídkový soubor
+ - Ivan Olbracht
+   - Podivné přátelství herce Jesenia - psychologický román, Nikola Šuhaj loupežník
+ - Karel Čapek
+   - Krakatit, Válka s mloky - romány; Bílá nemoc, RUR - drama
+ - Jaroslav Havlíček
+   - Petrolejové lampy - román
+ - Jiří Wolker
+   - Host do domu, Těžká hodina - básnická sbírka
+ - Jiří Orten
+   - Deníky Jiřího Ortena
+ - Jan Werich - Jiří Voskovec
+   - Vest Pocket revue - první divadelní hra, Kat a blázen, Balada z hadrů
+** Reakce na 2. světovou válku
+ - Arnošt Lustig
+   prooslus se novelami o židovských dívkách
+   - Modlitba pro Kateřinu Horovicovou, Dita Saxová
+ - Ota Pavel
+   - Smrt krásných srnců (Leo Popper) - soubor povídek
+ - Josef Škvorecký
+   - Zbabělci, Mirákl - romány, Prima sezona - povídky
+ - Bohumil Hrabal
+   - Obsluhoval jsem anglického krále - román, Ostře sledované vlaky - novela
+ - Ladislav Fuks
+   - Pan Theodor Mundstock - román, Spalovač mrtvol - novela
+ - Otokar Březina (symbolismus)
+   - Svítání na západě, Tajemné dálky - básnické sbírky
+*** Poetismus
+ - Vladislav Vančura
+   - Rozmarné léto - novela; Markéta Lazarová - román s prvky balady
+ - Vítězslav Nezval - člen skupiny Devětsil
+   - Most, Podivuhodný kouzelník - básně
+ - Jaroslav Seifert
+   - Na vlnách TSF - básnická sbírka, Vějíř Boženy Němcové
+ - František Halas - duchovně orientovaná poezie
+   - Naše paní Božena Němcová - básně, Sépie - básnická sbírka
+ - Vladimír Holan
+   - Noc s Hamletem - básnická skladba, Blouznivý vějíř
+** 2. polovina 20. století
+*** Poezie
+**** Skupina 42
+  - Jiří Kolář
+    - Dny v roce, Roky ve dnech - básnické sbírky
+**** starší generace básníků
+  - Nezval, Saifert, Holan
+  - František Hrubín
+    - Včelí plást - sbírka, Stalingrad - básnická sbírka
+**** skupina Host do domu (brněnská skupina básníků)
+  - Jan Skácel
+    - Co zbylo z anděla, Smuténka
+*** Drama
+  - Zdeněk Svěrák - Ladislav Smoljak
+    - Divadlo Járy (da) Cimrmana
+    - Vyšetřování ztráty třídní knihy, Záskok - divadelní hry
+  - Václav Havel
+    - Audience, Vernisáž - absurdní drama
+*** Próza
+  - Vladimír Páral
+    - Milenci a Vrazi - román, Mladý muž a bílá velryba - novela
+  - Josef Topol
+    - představitel tzv. třetí vlny českého undergroundu
+    - Sestra - román
+  - Ludvík Vaculík
+    - Český snář - próza formou deníkových záznamů
+  - Pavel Kohout
+    - Kde je zakopán pes - autobiografický román, Směšné lásky - povídkový soubor
+  - Milan Kundera (překladatel)
+    - Letní kniha přání a stížností - sbírky ze 60. let
+
+* Literární žánry
+  - anekdota (fór)
+    - krátké vtipné vyprávění s překvapivou pointou
+  - bajka
+    - malá epika, zvířata s lidskými vlastnostmi, obvykle končí ponaučením
+  - balada
+    - báseň vážného až tragického obsahu
+  - cestopic
+    - popisující cestovately zážitky
+  - elegie
+    - žalozpěv
+  - epigram
+    - krátká veršovaná forma s vtipnou pointou
+  - epos
+    - velká epika, rozsáhlý příběh, většinou hrdinský
+  - fantasy
+    - velká epika, nadpřirozeno, magie, bájné bytosti
+  - kaligram
+    - báseň v obrázku [[https://cs.wikipedia.org/wiki/Kaligram][kaligram]]
+  - komedie
+    - veselá divadelní hra
+  - kronika
+    - chronologicky popisuje historické události
+  - legenda
+    - vypráví o životě a skutcích světců
+  - mýtus
+    - vyprávění, které "vysvětluje" otázky, na které lidé ve starověku neznali odpověď, často vystupují bohové
+  - novela
+    - malá epika, jednoduchý příběh, málo postav, jeden děj
+  - óda
+    - oslavná lyrická báseň
+  - pásmo
+    - poetický literární útvar, rozsáhlá báseň, zakladatel Apollinaire
+  - píseň
+    - typ hudebního projevu
+  - poema
+    - rozsáhlá lyricko-epická veršovaná skladba
+  - pohádka
+    - vyprávění založené na básnické fantazii, zejména nadpřirozené jevy, většinou končí happyendem
+  - pověst
+    - krátké, fantasticky zabarvené vyprávění s reálnou motivací, který se odehrává v historickém čase
+  - povídka
+    - kratší než novela, zachycuje pouze jeden askept živote, ne život jako celek
+  - román
+     - rozsáhlý příběh, mnoho postav, složitý děj, více dějových linek
+  - sci-fi
+    - vědeckofantastický žánr, vesmír, budoucnost či alternativní historie, technologie
+  - sonet
+    - báseň, 14 veršů, většinou 4433, Shakespeare 4442
+  - romance
+    - lyricko-epická báseň, většinou o lásce
+  - tragédie
+    - vážná divadelní hra
